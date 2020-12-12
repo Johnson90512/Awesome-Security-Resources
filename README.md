@@ -10,7 +10,7 @@ A collection of tools, cheatsheets, operating systems, learning materials, and m
 I seem to forget about all the tools and resources when attacking, defending, responding, or looking to learn about cyber security, the purpose of this is to help fix that.
 
 ## Table of Contents
-* [Security Operating Systems](#Security-Operating-Systems)
+* [Security Operating Systems](#security-focused-operating-systems)
 * [Penetration Testing Tools](#Penetration-Testing-Tools)
 	* [Enumeration](#Enumeration)
 	* [Exploitation](#Exploitation)
@@ -26,3 +26,7 @@ I seem to forget about all the tools and resources when attacking, defending, re
 * [Walkthroughs/Guides](#Walkthroughs-and-Guides)
 
 ### Security Focused Operating Systems
+Name | Description
+---- | ----
+[Kali Linux](https://www.kali.org) | Open source linux operating system. Lots of built in tools for penetration testing and offensive security.
+[Parrot OS](https://parrotsec.org) | Debian-based linux operting system focused on security and privacy. Has lots of built in tools
