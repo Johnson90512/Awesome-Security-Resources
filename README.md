@@ -26,7 +26,7 @@ I seem to forget about all the tools and resources when attacking, defending, re
 * [Awesome Repos](#Awesome-Repos)
 * [Walkthroughs/Guides](#Walkthroughs-and-Guides)
 * [Books and Cheatsheets](#books-and-cheatsheets)
-* [News and Articles](#news-and-articles)
+* [Web Tools](#web-tools)
 
 ### Security Focused Operating Systems
 Name | Description
@@ -106,9 +106,12 @@ Name | Description
 ### Walkthroughs and Guides
 Name | Description
 ---- | ----
-### News and Articles
+### Web Tools
 Name | Description
 ---- | ----
+[Triage](https://tria.ge) | Malware sandbox or analysis.
+[Hybrid Analysis](https://hybrid-analysis.com) | Free automated malware service
+[Virus Total](https://www.virustotal.com/gui/) | Online malacious file analyzer
 ### Books and Cheatsheets
 Name | Description
 ---- | ----
