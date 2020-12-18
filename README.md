@@ -25,7 +25,7 @@ I seem to forget about all the tools and resources when attacking, defending, re
 * [Youtube Channels](#Youtube-Channels)
 * [Awesome Repos](#Awesome-Repos)
 * [Walkthroughs/Guides](#Walkthroughs-and-Guides)
-* [Books](#Books)
+* [Books and Cheatsheets](#books-and-cheatsheets)
 * [News and Articles](#news-and-articles)
 
 ### Security Focused Operating Systems
@@ -46,7 +46,8 @@ Name | Description
 ---- | ----
 **Enumeration** | 
 [Nmap](https://nmap.org) | A free and open source utility for network discovery and security auditing.
-[LinEnum](https://github.com/rebootuser/LinEnum) | A scripted local linux enumeration tool
+[LinEnum](https://github.com/rebootuser/LinEnum) | A scripted local linux enumeration tool.
+[PSPY](https://github.com/DominicBreuker/pspy) | A command line tool designed to snoop on processes without need for root permissions.
 **Exploitation** | 
 **Privilege Escalation** |
 **Miscellaneous** | 
@@ -68,13 +69,13 @@ Name | Description
 [GDB](http://www.gnu.org/software/gdb/download/) | The GNU Project Debugger
 [IDA](https://www.hex-rays.com/products/ida/support/download_freeware/) | Dissassembler has been the golden standard for years
 [Ghidra](https://ghidra-sre.org) | Ghidra is a software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate.
-[OllyDbg](http://www.ollydbg.de/) | a 32-bit assembler level analysing debugger for Microsoft Windows.
-[Radare2](https://www.radare.org/r/) | a portable reversing framework.
+[OllyDbg](http://www.ollydbg.de/) | A 32-bit assembler level analysing debugger for Microsoft Windows.
+[Radare2](https://www.radare.org/r/) | A portable reversing framework.
 
 ### Networking
 Name | Description
 ---- | ----
-[Wireshark](https://www.wireshark.org/download.html) | the world’s foremost and widely-used network protocol analyzer.
+[Wireshark](https://www.wireshark.org/download.html) | The world’s foremost and widely-used network protocol analyzer.
 ### Exploits
 Name | Description
 ---- | ----
@@ -90,11 +91,21 @@ Name | Description
 ### Awesome Repos
 Name | Description
 ---- | ----
-[Awesome Hacking](https://github.com/vitalysim/Awesome-Hacking-Resources) | A collection of hacking / penetration testing resources
-[Awesome Pentest](https://github.com/enaqx/awesome-pentest) | A collection of awesome penetration testing resources, tools, and other shiny things
+[Awesome Hacking](https://github.com/vitalysim/Awesome-Hacking-Resources) | A collection of hacking / penetration testing resources.
+[Awesome ICS Security](https://github.com/hslatman/awesome-industrial-control-system-security) | A curated list of resources related to Industrial Control System (ICS) security.
+[Awesome Pentest](https://github.com/enaqx/awesome-pentest) | A collection of awesome penetration testing resources, tools, and other shiny things.
+
 ### Walkthroughs and Guides
 Name | Description
 ---- | ----
-### Books
+### News and Articles
 Name | Description
 ---- | ----
+### Books and Cheatsheets
+Name | Description
+---- | ----
+**Books** | 
+**Cheatsheets** | Various Cheatsheets for quick information on popular tools.
+[SANS DFIR](https://digital-forensics.sans.org/community/cheat-sheets) | Digital Forensics and Incident Response cheatsheets from SANS.
+[SANS Pentest Posters](https://www.sans.org/security-resources/posters/pen-testing) | These are Pentesting Posters that SANS supplies.
+[SANS Cheatsheets](https://www.danielowen.com/2017/01/01/sans-cheat-sheets/) | Various SANS cheatsheets.
