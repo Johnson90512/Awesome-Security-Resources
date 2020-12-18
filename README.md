@@ -105,7 +105,7 @@ Name | Description
 Name | Description
 ---- | ----
 **Books** | 
-**Cheatsheets** | Various Cheatsheets for quick information on popular tools.
+**Cheatsheets** | 
 [SANS DFIR](https://digital-forensics.sans.org/community/cheat-sheets) | Digital Forensics and Incident Response cheatsheets from SANS.
 [SANS Pentest Posters](https://www.sans.org/security-resources/posters/pen-testing) | These are Pentesting Posters that SANS supplies.
 [SANS Cheatsheets](https://www.danielowen.com/2017/01/01/sans-cheat-sheets/) | Various SANS cheatsheets.
