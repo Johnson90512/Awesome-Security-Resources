@@ -88,11 +88,19 @@ Name | Description
 ### Youtube Channels
 Name | Description
 ---- | ----
+[13Cubed](https://www.youtube.com/channel/UCy8ntxFEudOCRZYT1f7ya9Q) | This channel covers information security-related topics including Digital Forensics and Incident Response (DFIR) and Penetration Testing.
+[Blackhat](https://www.youtube.com/c/BlackHatOfficialYT/videos) | This is the channel for the security conference, with lots of talks and demonstrations on different security topics.
+[IppSec](https://www.youtube.com/c/BlackHatOfficialYT/videos) | This channel shows walkthroughs of different HackTheBox machines.
+[John Hammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw) | This channel covers solving CTFs and programming.
+[Learn Forensics](https://www.youtube.com/channel/UCZ7mQV3j4GNX-LU1IKPVQZg) | This channel is devoted to computer forensics.
+[LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) | Just a wannabe hacker... making videos about various IT security topics and participating in hacking competitions.
+[Stacksmashing](https://www.youtube.com/channel/UC3S8vxwRfqLBdIhgRlDRVzw) | This channel uses Ghidra to reverse engineer various things.
 ### Awesome Repos
 Name | Description
 ---- | ----
 [Awesome Hacking](https://github.com/vitalysim/Awesome-Hacking-Resources) | A collection of hacking / penetration testing resources.
 [Awesome ICS Security](https://github.com/hslatman/awesome-industrial-control-system-security) | A curated list of resources related to Industrial Control System (ICS) security.
+[Awesome Incident Response](https://github.com/meirwah/awesome-incident-response) | A curated list of tools and resources for security incident response, aimed to help security analysts and DFIR teams.
 [Awesome Pentest](https://github.com/enaqx/awesome-pentest) | A collection of awesome penetration testing resources, tools, and other shiny things.
 
 ### Walkthroughs and Guides
