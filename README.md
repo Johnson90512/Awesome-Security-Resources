@@ -45,6 +45,8 @@ These tools are broken up into 4 categories. Enumeration, Exploitation, Privileg
 
 * Privilege Escalation tools are the tools that will aid in vertical or horizontal permission change.
 
+* Micscellaneous tools are any pentesting tools that don't fit in the 3 above categories.
+
 Name | Description
 ---- | ----
 **Enumeration** |
@@ -52,6 +54,7 @@ Name | Description
 [LinEnum](https://github.com/rebootuser/LinEnum) | A scripted local linux enumeration tool.
 [PSPY](https://github.com/DominicBreuker/pspy) | A command line tool designed to snoop on processes without need for root permissions.
 **Exploitation** |
+[ShellPop](https://github.com/0x00-0x00/ShellPop) | Generate easy and sophisticated reverse or bind shell commands to help you during penetration tests.
 **Privilege Escalation** |
 **Miscellaneous** |
 [Kali Tools](https://tools.kali.org/tools-listing) | List of all the tools that are pre-installed on Kali linux and an explanation to what they do.
@@ -124,6 +127,9 @@ Name | Description
 
 Name | Description
 ---- | ----
+[Hackso.me](https://hackso.me/categories/) | CTF, HacktheBox, and Vulnhub walkthroughs
+[Pentesting Methodology](http://www.0daysecurity.com/pentest.html) | Step by step walkthough of a basic pentesting methodology
+[HackTheBox Guides](https://0xdf.gitlab.io/) | Guides/Walkthroughs for various retired HacktheBox machines.
 
 ### Web Tools
 
@@ -132,6 +138,13 @@ Name | Description
 [Triage](https://tria.ge) | Malware sandbox or analysis.
 [Hybrid Analysis](https://hybrid-analysis.com) | Free automated malware service
 [Virus Total](https://www.virustotal.com/gui/) | Online malacious file analyzer
+
+### Web Articles
+
+Name | Description
+---- | ----
+[How to create a reverse Shell](https://www.businessinsider.com/how-to-create-a-reverse-shell-to-remotely-execute-root-commands-over-any-open-port-using-netcat-or-bash-2012-1) | Article detailing how to create a reverse shell and when to do it.
+[Reverse Shell in Bash](https://incognitjoe.github.io/reverse-shells-for-dummies.html) | Reverse shells in bash for Dummies by a Dummy.
 
 ### Books and Cheatsheets
 
@@ -142,3 +155,5 @@ Name | Description
 [SANS DFIR](https://digital-forensics.sans.org/community/cheat-sheets) | Digital Forensics and Incident Response cheatsheets from SANS.
 [SANS Pentest Posters](https://www.sans.org/security-resources/posters/pen-testing) | These are Pentesting Posters that SANS supplies.
 [SANS Cheatsheets](https://www.danielowen.com/2017/01/01/sans-cheat-sheets/) | Various SANS cheatsheets.
+[Pentesting Tools Cheatsheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/) | A quick reference high level overview for typical penetration testing engagements from highon.coffee.
+[Reverse Shell Cheatsheet](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet) |  Several different types of reverse shells
