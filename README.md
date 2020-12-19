@@ -12,7 +12,8 @@ I seem to forget about all the tools and resources when attacking, defending, re
 * [Penetration Testing Tools](#penetration-testing-tools)
   * [Enumeration](#Enumeration)
   * [Exploitation](#Exploitation)
-  * [Privilege Escalation](#Privilege-Escalation0)
+  * [Privilege Escalation](#Privilege-Escalation)
+  * [Miscellaneous](#miscellaneous)
 * [Incident Response](#Incident-Response)
 * [Malware Analysis](#Malware-Analysis)
 * [Reverse Engineering](#Reverse-Engineering)
@@ -61,7 +62,7 @@ Name | Description
 [Pentest Checklist](https://github.com/netbiosX/Checklists) | Different Checklists to run through durring a pentest engagement.
 [CyberChef](http://icyberchef.com/) | Encoding and decoding tool for a variety of different ciphers.
 
-### Incident Response
+### DFIR
 
 Name | Description
 ---- | ----
@@ -87,20 +88,75 @@ Name | Description
 ---- | ----
 [Wireshark](https://www.wireshark.org/download.html) | The world’s foremost and widely-used network protocol analyzer.
 
-### Exploits
+### Exploit Tools
 
 Name | Description
 ---- | ----
+
+### OSINT
+
+Name | Description
+---- | ----
+[Bing Image Search](https://www.bing.com/visualsearch?FORM=ILPVIS) | Reverse image search.
+[DeHashed](https://dehashed.com/) | A hacked-database search-engine.
+[NameCheck](https://namechk.com/) | Search site for usernames across different platforms.
+[NameCheckup](https://namecheckup.com/) | Search site for usernames across different platforms.
+[HaveIBeenPwned](https://haveibeenpwned.com/) | Check to see if an account has been involved in a databreach.
+[Scylla.sh](https://scylla.sh/api) | Database dumps search site.
+[Sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username acrross social networks.
+[TinEye](https://tineye.com/) | Reverse image search.
+[WhatsMyName](https://whatsmyname.app/) | Tool that allows you to enumerate usernames across many websites.
+[Yandex](https://yandex.com/images/) | Reverse image search.
 
 ### Practice Sites
 
 Name | Description
 ---- | ----
+[Attack/Defense Labs](https://public.attackdefense.com) | Very well built security attack and defense labs.
+[Certified Hacker](http://certifiedhacker.com) | Intentionally vulnerable website.
+[Defend the Web](https://defendtheweb.net/?hackthis) | An interactive security platform where you can learn and challenge your skills.
+[Enigma Group](https://www.enigmagroup.org) | Web application security training.
+[Exploit Education](https://exploit.education) | Provides a variety of resources that can be used to learn about vulnerability analysis, exploit development, software debugging, binary analysis, and general cyber security issues.
+[FLAWS](http://flaws.cloud) | AWS specific security challenge site.
+[GameofHacks](https://www.gameofhacks.com) | This game was designed to test your application hacking skills.
+[Gh0st Networks](http://www.gh0st.net) | CTF site for security practice.
+[Google CTF](https://capturetheflag.withgoogle.com) | Yearly CTF hosted by Google.com.
+[HackMe](https://hack.me) | Site to share vulnerable web applications for practice in web hacking.
+[HackTheBox](https://www.hackthebox.eu) | Boot to root penetration testing practice site.
+[HackThisSite](https://www.hackthissite.org) | Wargame prictice site and community forums.
+[Hacking Lab](https://www.hacking-lab.com/index.html) | An online ethical hacking, computer network and security challenge platform, dedicated to finding and educating cyber security talents.
+[Hellbound Hackers](https://www.hellboundhackers.org) | Hacking practice site.
+[IO](http://io.netgarage.org) | Wargame site to practice hacking skills.
+[OvertheWire](https://overthewire.org/wargames/) | Begniier wargames that teach the basics of security.
+[Microcorruption](https://microcorruption.com/login) | Wargame to help in using a debugger and Assembly Language.
+[PentestIt](https://lab.pentestit.ru) | Penetration Testing Laboratories.
+[Pentest Practice](https://www.pentestpractice.com/challenges/tutorial) | Online security training environment.
+[Pentest Training](https://pentest.training/index.php) | A simple website used as a hub for information revolving around the varies services we offer to help both experienced and new penetration testers practice and hone their skills.
+[Permanent CTF List](https://captf.com/practice-ctf/) | List of CTFs that are always available online or able to be downloaded.
+[Pwnable.kr](http://pwnable.kr) | Wargame site to help improve hacking skills.
+[Pwnable.tw](https://pwnable.tw) | A wargame site for hackers to test and expand their binary exploiting skills.
+[Reversing.kr](http://reversing.kr/index.php) | Site to test your Cracking and Reverse Engineering ability.
+[Ring0CTF](https://ringzer0ctf.com) | Hacking practice site.
+[RootMe](https://www.root-me.org/?lang=en) | Hacking practice site.
+[SmashTheStack](http://smashthestack.org/wargames.html) | Site with various wargames available to practice.
+[Try2Hack](http://www.try2hack.nl) | This site provides several security-oriented challenges.
+[TryHackMe](https://tryhackme.com) | Room based site for hacking practice with good instruction.
+[VulnHub](https://www.vulnhub.com) | Downloadable virtual machines to practice hacking.
+[WeChall](https://www.wechall.net) | Security challenge site.
+[WeChalls](https://w3challs.com) | Wargames to practice hacking.
+**Practice Labs** |
+[Metasploitable](https://information.rapid7.com/download-metasploitable-2017.html?LS=1631875&CS=web) | Intentionally vulnerable target machine for evaluating Metasploit
+[Pentest Lab](https://github.com/Sliim/pentest-lab) | contains examples to deploy a penetration testing lab on OpenStack provisioned with Heat, Chef and Docker.
+[SecGen](https://github.com/cliffe/SecGen) | Creates vulnerable virtual machines, lab environments, and hacking challenges, so students can learn security penetration testing techniques.
+[WebGOAT](https://owasp.org/www-project-webgoat/) | A deliberately insecure application that allows interested developers just like you to test vulnerabilities commonly found in Java-based applications that use common and popular open source components.
 
 ### Learning Materials
 
 Name | Description
 ---- | ----
+[Building a Home Lab for Offensive Security](https://systemoverlord.com/2017/10/24/building-a-home-lab-for-offensive-security-basics.html) | Guide on how to build a home lab for security purposes.
+[Pentesting Methodology](http://www.0daysecurity.com/pentest.html) | Step by step walkthough of a basic pentesting methodology.
+[The Hacking Process](https://bitvijays.github.io) | Lots of information on the hacking process.
 
 ### Youtube Channels
 
@@ -128,7 +184,6 @@ Name | Description
 Name | Description
 ---- | ----
 [Hackso.me](https://hackso.me/categories/) | CTF, HacktheBox, and Vulnhub walkthroughs
-[Pentesting Methodology](http://www.0daysecurity.com/pentest.html) | Step by step walkthough of a basic pentesting methodology
 [HackTheBox Guides](https://0xdf.gitlab.io/) | Guides/Walkthroughs for various retired HacktheBox machines.
 
 ### Web Tools
@@ -138,6 +193,7 @@ Name | Description
 [Triage](https://tria.ge) | Malware sandbox or analysis.
 [Hybrid Analysis](https://hybrid-analysis.com) | Free automated malware service
 [Virus Total](https://www.virustotal.com/gui/) | Online malacious file analyzer
+[Jeffrey's Image Metadata Viewer](http://exif.regex.info/exif.cgi) | Shows the data that might be inside a digital image file.
 
 ### Web Articles
 
