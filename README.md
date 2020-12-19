@@ -86,7 +86,14 @@ Name | Description
 
 Name | Description
 ---- | ----
+[CCNA Subreddit](https://www.reddit.com/r/ccna/wiki/index) | Subreddit dedicated to the CCNA Exam.
+[CCNA\CCENT Training Series](https://www.youtube.com/playlist?list=PLmdYg02XJt6QRQfYjyQcMPfS3mrSnFbRC) | A full course of 84 videos for CCNA and CCENT Routing and Switching taught by Cisco Instructor Andrew Crouthamel.
+[CCNA Training Series](https://www.youtube.com/playlist?list=PLh94XVT4dq02frQRRZBHzvj2hwuhzSByN) | Youtube Series on CCNA information.
+[SubnettingPractice](https://subnettingpractice.com) | The most extensive subnetting practice site on the web!
+[Subnetting.net](https://www.subnetting.net/Subnetting.aspx?mode=practice) | Sunetting practice tools.
 [Wireshark](https://www.wireshark.org/download.html) | The world’s foremost and widely-used network protocol analyzer.
+[Wireshark Certified Network Analyst](https://www.youtube.com/watch?v=FaoheEdkqdc&index=10&list=PLTIJiKI4vOA37qUl-5ztWYcCE6zpscF6j) | Youtube series of 15 videos about the WCNA.
+[Wireshark Training Documenation](https://www.wireshark.org/docs/) | In depth documentation on how to use wireshark.
 
 ### Exploit Tools
 
@@ -154,7 +161,21 @@ Name | Description
 
 Name | Description
 ---- | ----
+**Reverse Engineering** |
+[Assembly Programming Tutorial](https://www.tutorialspoint.com/assembly_programming/index.htm) | A tutorial on programming in nasm Assembly.
+[Beginners Guide to Assembly](https://www.unknowncheats.me/forum/programming-beginners/63947-reverse-engineering-beginners-guide-x86-assembly-and-debugging-windows-apps.html) | This guide will explain exactly what is necessary to begin cheat creation for generally any online computer game, including both fields to study, and tools to use.
+[Beginner RE Info](https://www.reddit.com/r/ReverseEngineering/comments/hg0fx/a_modest_proposal_absolutely_no_babies_involved/) | Reddit collection of beginner information on getting into Reverse Engineering.
 [Building a Home Lab for Offensive Security](https://systemoverlord.com/2017/10/24/building-a-home-lab-for-offensive-security-basics.html) | Guide on how to build a home lab for security purposes.
+[Guide to x86 Assembly](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html) | This guide describes the basics of 32-bit x86 assembly language programming, covering a small but useful subset of the available instructions and assembler directives.
+[Guide to Assmebly in VS .NET](http://www.cs.virginia.edu/~evans/cs216/guides/vsasm.html)  | This tutorial explains how to use assembly code in a Visual Studio .NET project.
+[IDA Pro Tutorial](https://www.youtube.com/playlist?list=PLt9cUwGw6CYG2kmL5n6dFgi4wKMhgLNd7) | Tutorial on how to reverse engineer with IDA Pro.
+[Intel 64 and IA32 Software Manual](https://software.intel.com/sites/default/files/managed/39/c5/325462-sdm-vol-1-2abcd-3abcd.pdf) | This document contains all four volumes of the Intel 64 and IA-32 Architectures Software Developer's Manual.
+[Intermediate x86](https://opensecuritytraining.info/IntermediateX86.html) | Intermediate Intel x86: Architecture, Assembly, Applications, & Alliteration. Part 2 to Into to x86.
+[Intro to x86](https://opensecuritytraining.info/IntroX86.html) | Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration.
+[Malware Analysis Tutorial](http://fumalwareanalysis.blogspot.com/p/malware-analysis-tutorials-reverse.html) | Malware Analysis Tutorials: a Reverse Engineering Approach.
+[Reversing for Newbies](https://forum.tuts4you.com/files/file/1307-lenas-reversing-for-newbies/) | A collection of tutorials aimed particularly for newbie reverse engineers.
+[So you want to be a Malware Analyst](https://blog.malwarebytes.com/security-world/2012/09/so-you-want-to-be-a-malware-analyst/) | Malwarebytes blog on becomming a malware analyst and what all is involved.
+**Hacking and Pentesting** |
 [Pentesting Methodology](http://www.0daysecurity.com/pentest.html) | Step by step walkthough of a basic pentesting methodology.
 [The Hacking Process](https://bitvijays.github.io) | Lots of information on the hacking process.
 
@@ -164,6 +185,7 @@ Name | Description
 ---- | ----
 [13Cubed](https://www.youtube.com/channel/UCy8ntxFEudOCRZYT1f7ya9Q) | This channel covers information security-related topics including Digital Forensics and Incident Response (DFIR) and Penetration Testing.
 [Blackhat](https://www.youtube.com/c/BlackHatOfficialYT/videos) | This is the channel for the security conference, with lots of talks and demonstrations on different security topics.
+[Guided Hacking](https://www.youtube.com/c/GuidedHacking/videos) |  A hacking and reverse engineering community with a focus on game hacking.
 [IppSec](https://www.youtube.com/c/BlackHatOfficialYT/videos) | This channel shows walkthroughs of different HackTheBox machines.
 [John Hammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw) | This channel covers solving CTFs and programming.
 [Learn Forensics](https://www.youtube.com/channel/UCZ7mQV3j4GNX-LU1IKPVQZg) | This channel is devoted to computer forensics.
@@ -200,6 +222,7 @@ Name | Description
 Name | Description
 ---- | ----
 [How to create a reverse Shell](https://www.businessinsider.com/how-to-create-a-reverse-shell-to-remotely-execute-root-commands-over-any-open-port-using-netcat-or-bash-2012-1) | Article detailing how to create a reverse shell and when to do it.
+[How to start out in RE](https://www.reddit.com/r/ReverseEngineering/comments/12ajwc/how_to_start_out_in_reverse_engineering/) | Reddit post on the steps to get started in Reverse Engineering.
 [Reverse Shell in Bash](https://incognitjoe.github.io/reverse-shells-for-dummies.html) | Reverse shells in bash for Dummies by a Dummy.
 
 ### Books and Cheatsheets
