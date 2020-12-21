@@ -226,6 +226,7 @@ Name | Description
 [Building a Home Lab for Offensive Security](https://systemoverlord.com/2017/10/24/building-a-home-lab-for-offensive-security-basics.html) | Guide on how to build a home lab for security purposes.
 [Guide to x86 Assembly](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html) | This guide describes the basics of 32-bit x86 assembly language programming, covering a small but useful subset of the available instructions and assembler directives.
 [Guide to Assmebly in VS .NET](http://www.cs.virginia.edu/~evans/cs216/guides/vsasm.html)  | This tutorial explains how to use assembly code in a Visual Studio .NET project.
+[How to start out in Reverse Engineering](https://www.reddit.com/r/ReverseEngineering/comments/12ajwc/how_to_start_out_in_reverse_engineering/) | Reddit post on the steps to get started in Reverse Engineering.
 [IDA Pro Tutorial](https://www.youtube.com/playlist?list=PLt9cUwGw6CYG2kmL5n6dFgi4wKMhgLNd7) | Tutorial on how to reverse engineer with IDA Pro.
 [Intel 64 and IA32 Software Manual](https://software.intel.com/sites/default/files/managed/39/c5/325462-sdm-vol-1-2abcd-3abcd.pdf) | This document contains all four volumes of the Intel 64 and IA-32 Architectures Software Developer's Manual.
 [Intermediate x86](https://opensecuritytraining.info/IntermediateX86.html) | Intermediate Intel x86: Architecture, Assembly, Applications, & Alliteration. Part 2 to Into to x86.
@@ -243,7 +244,6 @@ Name | Description
 [How to create a backdoor](https://null-byte.wonderhowto.com/how-to/hack-like-pro-create-nearly-undetectable-backdoor-with-cryptcat-0149264/) | Article on how to create a nearly undetectable backdoor with Cryptcat.
 [How to create a remote command shell](https://www.sans.edu/student-files/presentations/ftp_nslookup_withnotes.pdf) | Creating a remote command shell using a default windows command line tools
 [How to create a reverse Shell](https://www.businessinsider.com/how-to-create-a-reverse-shell-to-remotely-execute-root-commands-over-any-open-port-using-netcat-or-bash-2012-1) | Article detailing how to create a reverse shell and when to do it.
-[How to start out in RE](https://www.reddit.com/r/ReverseEngineering/comments/12ajwc/how_to_start_out_in_reverse_engineering/) | Reddit post on the steps to get started in Reverse Engineering.
 [Reverse Shell in Bash](https://incognitjoe.github.io/reverse-shells-for-dummies.html) | Reverse shells in bash for Dummies by a Dummy.
 **Hacking and Pentesting** |
 [Pentesting Methodology](http://www.0daysecurity.com/pentest.html) | Step by step walkthough of a basic pentesting methodology.
