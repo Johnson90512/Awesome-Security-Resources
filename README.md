@@ -222,7 +222,7 @@ Name | Description
 **Reverse Engineering** |
 [Assembly Programming Tutorial](https://www.tutorialspoint.com/assembly_programming/index.htm) | A tutorial on programming in nasm Assembly.
 [Beginners Guide to Assembly](https://www.unknowncheats.me/forum/programming-beginners/63947-reverse-engineering-beginners-guide-x86-assembly-and-debugging-windows-apps.html) | This guide will explain exactly what is necessary to begin cheat creation for generally any online computer game, including both fields to study, and tools to use.
-[Beginner RE Info](https://www.reddit.com/r/ReverseEngineering/comments/hg0fx/a_modest_proposal_absolutely_no_babies_involved/) | Reddit collection of beginner information on getting into Reverse Engineering.
+[Beginner Reverse Engineering Info](https://www.reddit.com/r/ReverseEngineering/comments/hg0fx/a_modest_proposal_absolutely_no_babies_involved/) | Reddit collection of beginner information on getting into Reverse Engineering.
 [Building a Home Lab for Offensive Security](https://systemoverlord.com/2017/10/24/building-a-home-lab-for-offensive-security-basics.html) | Guide on how to build a home lab for security purposes.
 [Guide to x86 Assembly](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html) | This guide describes the basics of 32-bit x86 assembly language programming, covering a small but useful subset of the available instructions and assembler directives.
 [Guide to Assmebly in VS .NET](http://www.cs.virginia.edu/~evans/cs216/guides/vsasm.html)  | This tutorial explains how to use assembly code in a Visual Studio .NET project.
