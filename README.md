@@ -14,18 +14,18 @@ I seem to forget about all the tools and resources when attacking, defending, re
   * [Exploitation](#Exploitation)
   * [Privilege Escalation](#Privilege-Escalation)
   * [Miscellaneous](#miscellaneous)
-* [Incident Response](#Incident-Response)
-* [Malware Analysis](#Malware-Analysis)
+* [DFIR](#dfir)
+* [Malware Analysis](#malware-analysis)
 * [Reverse Engineering](#Reverse-Engineering)
 * [Networking](#networking)
-* [Exploits](#Exploits)
+* [Exploit Tools](#exploit-tools)
+* [OSINT](#osint)
 * [Practice Sites](#Practice-Sites)
-* [Learning Materials](#Learning-Materials)
 * [Youtube Channels](#Youtube-Channels)
 * [Awesome Repos](#Awesome-Repos)
 * [Walkthroughs/Guides](#Walkthroughs-and-Guides)
+* [Learning Materials](#learning-materials)
 * [Books and Cheatsheets](#books-and-cheatsheets)
-* [Web Tools](#web-tools)
 
 ### Security Focused Operating Systems
 
@@ -54,9 +54,15 @@ Name | Description
 [Nmap](https://nmap.org) | A free and open source utility for network discovery and security auditing.
 [LinEnum](https://github.com/rebootuser/LinEnum) | A scripted local linux enumeration tool.
 [PSPY](https://github.com/DominicBreuker/pspy) | A command line tool designed to snoop on processes without need for root permissions.
+[WPScan](https://github.com/wpscanteam/wpscan) | A free, for non-commercial use, black box WordPress security scanner written for security professionals and blog maintainers to test the security of their WordPress websites.
 **Exploitation** |
+[p0wny shell](https://github.com/flozz/p0wny-shell) | Single-file PHP shell.
 [ShellPop](https://github.com/0x00-0x00/ShellPop) | Generate easy and sophisticated reverse or bind shell commands to help you during penetration tests.
+[Exploit Suggester](https://github.com/wwong99/pentest-notes/blob/master/scripts/xploit_installer.py) | Python script to suggesst different exploits to run on different Linux and Windows machines.
 **Privilege Escalation** |
+[DirtyCow POC](https://github.com/dirtycow/dirtycow.github.io/wiki/PoCs) | Table listing the source code to several different variations of dirtycow.
+[GTFOBins](https://gtfobins.github.io) | A curated list of Unix binaries that can used to bypass local security restrictions in misconfigured systems.
+[Unix Privilege Escalation](https://github.com/pentestmonkey/unix-privesc-check) | Shell script to check for simple privilege escalation vectors on Unix systems.
 **Miscellaneous** |
 [Kali Tools](https://tools.kali.org/tools-listing) | List of all the tools that are pre-installed on Kali linux and an explanation to what they do.
 [Pentest Checklist](https://github.com/netbiosX/Checklists) | Different Checklists to run through durring a pentest engagement.
@@ -106,12 +112,15 @@ Name | Description
 ---- | ----
 [Bing Image Search](https://www.bing.com/visualsearch?FORM=ILPVIS) | Reverse image search.
 [DeHashed](https://dehashed.com/) | A hacked-database search-engine.
+[DNSDumpster](https://dnsdumpster.com) | Free domain research tool that can discover hosts related to a domain.
+[Jeffrey's Image Metadata Viewer](http://exif.regex.info/exif.cgi) | Simple and free tool that shows the Exif data on images.
 [NameCheck](https://namechk.com/) | Search site for usernames across different platforms.
 [NameCheckup](https://namecheckup.com/) | Search site for usernames across different platforms.
 [HaveIBeenPwned](https://haveibeenpwned.com/) | Check to see if an account has been involved in a databreach.
 [Scylla.sh](https://scylla.sh/api) | Database dumps search site.
 [Sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username acrross social networks.
 [TinEye](https://tineye.com/) | Reverse image search.
+[Online Traceroute](https://hackertarget.com/online-traceroute/) | Online Traceroute using MTR.
 [WhatsMyName](https://whatsmyname.app/) | Tool that allows you to enumerate usernames across many websites.
 [Yandex](https://yandex.com/images/) | Reverse image search.
 
@@ -157,28 +166,6 @@ Name | Description
 [SecGen](https://github.com/cliffe/SecGen) | Creates vulnerable virtual machines, lab environments, and hacking challenges, so students can learn security penetration testing techniques.
 [WebGOAT](https://owasp.org/www-project-webgoat/) | A deliberately insecure application that allows interested developers just like you to test vulnerabilities commonly found in Java-based applications that use common and popular open source components.
 
-### Learning Materials
-
-Name | Description
----- | ----
-**Reverse Engineering** |
-[Assembly Programming Tutorial](https://www.tutorialspoint.com/assembly_programming/index.htm) | A tutorial on programming in nasm Assembly.
-[Beginners Guide to Assembly](https://www.unknowncheats.me/forum/programming-beginners/63947-reverse-engineering-beginners-guide-x86-assembly-and-debugging-windows-apps.html) | This guide will explain exactly what is necessary to begin cheat creation for generally any online computer game, including both fields to study, and tools to use.
-[Beginner RE Info](https://www.reddit.com/r/ReverseEngineering/comments/hg0fx/a_modest_proposal_absolutely_no_babies_involved/) | Reddit collection of beginner information on getting into Reverse Engineering.
-[Building a Home Lab for Offensive Security](https://systemoverlord.com/2017/10/24/building-a-home-lab-for-offensive-security-basics.html) | Guide on how to build a home lab for security purposes.
-[Guide to x86 Assembly](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html) | This guide describes the basics of 32-bit x86 assembly language programming, covering a small but useful subset of the available instructions and assembler directives.
-[Guide to Assmebly in VS .NET](http://www.cs.virginia.edu/~evans/cs216/guides/vsasm.html)  | This tutorial explains how to use assembly code in a Visual Studio .NET project.
-[IDA Pro Tutorial](https://www.youtube.com/playlist?list=PLt9cUwGw6CYG2kmL5n6dFgi4wKMhgLNd7) | Tutorial on how to reverse engineer with IDA Pro.
-[Intel 64 and IA32 Software Manual](https://software.intel.com/sites/default/files/managed/39/c5/325462-sdm-vol-1-2abcd-3abcd.pdf) | This document contains all four volumes of the Intel 64 and IA-32 Architectures Software Developer's Manual.
-[Intermediate x86](https://opensecuritytraining.info/IntermediateX86.html) | Intermediate Intel x86: Architecture, Assembly, Applications, & Alliteration. Part 2 to Into to x86.
-[Intro to x86](https://opensecuritytraining.info/IntroX86.html) | Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration.
-[Malware Analysis Tutorial](http://fumalwareanalysis.blogspot.com/p/malware-analysis-tutorials-reverse.html) | Malware Analysis Tutorials: a Reverse Engineering Approach.
-[Reversing for Newbies](https://forum.tuts4you.com/files/file/1307-lenas-reversing-for-newbies/) | A collection of tutorials aimed particularly for newbie reverse engineers.
-[So you want to be a Malware Analyst](https://blog.malwarebytes.com/security-world/2012/09/so-you-want-to-be-a-malware-analyst/) | Malwarebytes blog on becomming a malware analyst and what all is involved.
-**Hacking and Pentesting** |
-[Pentesting Methodology](http://www.0daysecurity.com/pentest.html) | Step by step walkthough of a basic pentesting methodology.
-[The Hacking Process](https://bitvijays.github.io) | Lots of information on the hacking process.
-
 ### Youtube Channels
 
 Name | Description
@@ -217,13 +204,50 @@ Name | Description
 [Virus Total](https://www.virustotal.com/gui/) | Online malacious file analyzer
 [Jeffrey's Image Metadata Viewer](http://exif.regex.info/exif.cgi) | Shows the data that might be inside a digital image file.
 
-### Web Articles
+### Learning Materials
 
 Name | Description
 ---- | ----
+**Enumeration** |
+[Advanced Nmap:Scanning Firewalls](https://www.opensourceforu.com/2011/02/advanced-nmap-scanning-firewalls/) | Advanced Nmap techniques for how to scann various types of firewalls.
+[Learning Nmap: The Basics - Part 1](https://www.opensourceforu.com/2010/08/nmap-basics/) | The basics of how to use nmap.
+[Advanced Nmap: Some Scan Types - Part 2](https://www.opensourceforu.com/2010/11/advanced-nmap-some-scan-types/) | Various Nmap scan types, and the practical use of these commands to scan various devices and networks.
+[Advanced Nmap: Scanning Techniques Continued - Part 3](https://www.opensourceforu.com/2010/12/advanced-nmap-scanning-techniques-continued/) | More interesting scanning techniques.
+[Advanced Nmap: Fin Scan & OS Detection](https://www.opensourceforu.com/2011/01/advanced-nmap-fin-scan-and-os-detection/) | Various other command-line options.
+**Exploitation**|
+[Attacking & Securing WordPress](https://hackertarget.com/attacking-wordpress/) | Tecniques for enumeration and exploitation of wordpress sites.
+[How to hack a Wordpress site](https://www.hackingloops.com/how-to-hack-wordpress/) | Hacking a wordpress sites using different techniques.
+[How to pentest your WordPress site](https://hackertarget.com/attacking-wordpress/) | How to perform a pentest on you a wordpress site. More techniques and tools
+[WordPress plugin Vulneribilities](https://wpscan.com/plugins) | List of all vulnerabilities for WordPress plugins.
+**Reverse Engineering** |
+[Assembly Programming Tutorial](https://www.tutorialspoint.com/assembly_programming/index.htm) | A tutorial on programming in nasm Assembly.
+[Beginners Guide to Assembly](https://www.unknowncheats.me/forum/programming-beginners/63947-reverse-engineering-beginners-guide-x86-assembly-and-debugging-windows-apps.html) | This guide will explain exactly what is necessary to begin cheat creation for generally any online computer game, including both fields to study, and tools to use.
+[Beginner RE Info](https://www.reddit.com/r/ReverseEngineering/comments/hg0fx/a_modest_proposal_absolutely_no_babies_involved/) | Reddit collection of beginner information on getting into Reverse Engineering.
+[Building a Home Lab for Offensive Security](https://systemoverlord.com/2017/10/24/building-a-home-lab-for-offensive-security-basics.html) | Guide on how to build a home lab for security purposes.
+[Guide to x86 Assembly](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html) | This guide describes the basics of 32-bit x86 assembly language programming, covering a small but useful subset of the available instructions and assembler directives.
+[Guide to Assmebly in VS .NET](http://www.cs.virginia.edu/~evans/cs216/guides/vsasm.html)  | This tutorial explains how to use assembly code in a Visual Studio .NET project.
+[IDA Pro Tutorial](https://www.youtube.com/playlist?list=PLt9cUwGw6CYG2kmL5n6dFgi4wKMhgLNd7) | Tutorial on how to reverse engineer with IDA Pro.
+[Intel 64 and IA32 Software Manual](https://software.intel.com/sites/default/files/managed/39/c5/325462-sdm-vol-1-2abcd-3abcd.pdf) | This document contains all four volumes of the Intel 64 and IA-32 Architectures Software Developer's Manual.
+[Intermediate x86](https://opensecuritytraining.info/IntermediateX86.html) | Intermediate Intel x86: Architecture, Assembly, Applications, & Alliteration. Part 2 to Into to x86.
+[Intro to x86](https://opensecuritytraining.info/IntroX86.html) | Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration.
+[Malware Analysis Tutorial](http://fumalwareanalysis.blogspot.com/p/malware-analysis-tutorials-reverse.html) | Malware Analysis Tutorials: a Reverse Engineering Approach.
+[Reversing for Newbies](https://forum.tuts4you.com/files/file/1307-lenas-reversing-for-newbies/) | A collection of tutorials aimed particularly for newbie reverse engineers.
+[So you want to be a Malware Analyst](https://blog.malwarebytes.com/security-world/2012/09/so-you-want-to-be-a-malware-analyst/) | Malwarebytes blog on becomming a malware analyst and what all is involved.
+**Privilege Escalation** |
+[Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/) | Blog teaching the basics of Linux Privelege Escalation.
+[Linux Privilege Escalation Techniques](https://www.sans.org/reading-room/whitepapers/linux/paper/37562) | SANS papers on the linux privilege escalation.
+[Linux Privilege Escalation tools/tactics](https://guif.re/linuxeop) | List of different linux privilege escalation tools and techniques as well as several scripts to download to automate the process.
+[Windows Privilege Escalation](https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/) | Guide on techniques for Windows Privilege Escalation.
+**Shells** |
+[How to build a RAT](https://www.quora.com/How-can-I-build-a-RAT-Remote-Access-Trojan-from-scratch-For-educational-purposes-only) | Building a RAT from scratch for educational purposes.
+[How to create a backdoor](https://null-byte.wonderhowto.com/how-to/hack-like-pro-create-nearly-undetectable-backdoor-with-cryptcat-0149264/) | Article on how to create a nearly undetectable backdoor with Cryptcat.
+[How to create a remote command shell](https://www.sans.edu/student-files/presentations/ftp_nslookup_withnotes.pdf) | Creating a remote command shell using a default windows command line tools
 [How to create a reverse Shell](https://www.businessinsider.com/how-to-create-a-reverse-shell-to-remotely-execute-root-commands-over-any-open-port-using-netcat-or-bash-2012-1) | Article detailing how to create a reverse shell and when to do it.
 [How to start out in RE](https://www.reddit.com/r/ReverseEngineering/comments/12ajwc/how_to_start_out_in_reverse_engineering/) | Reddit post on the steps to get started in Reverse Engineering.
 [Reverse Shell in Bash](https://incognitjoe.github.io/reverse-shells-for-dummies.html) | Reverse shells in bash for Dummies by a Dummy.
+**Hacking and Pentesting** |
+[Pentesting Methodology](http://www.0daysecurity.com/pentest.html) | Step by step walkthough of a basic pentesting methodology.
+[The Hacking Process](https://bitvijays.github.io) | Lots of information on the hacking process.
 
 ### Books and Cheatsheets
 
@@ -231,8 +255,9 @@ Name | Description
 ---- | ----
 **Books** |
 **Cheatsheets** |
+[Radare2 Cheatsheet](https://scoding.de/uploads/r2_cs.pdf) | Cheatsheel of common commands for program Radare2
+[Reverse Shell Cheatsheet](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet) |  Several different types of reverse shells
 [SANS DFIR](https://digital-forensics.sans.org/community/cheat-sheets) | Digital Forensics and Incident Response cheatsheets from SANS.
 [SANS Pentest Posters](https://www.sans.org/security-resources/posters/pen-testing) | These are Pentesting Posters that SANS supplies.
 [SANS Cheatsheets](https://www.danielowen.com/2017/01/01/sans-cheat-sheets/) | Various SANS cheatsheets.
 [Pentesting Tools Cheatsheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/) | A quick reference high level overview for typical penetration testing engagements from highon.coffee.
-[Reverse Shell Cheatsheet](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet) |  Several different types of reverse shells
