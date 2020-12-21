@@ -10,20 +10,20 @@ I seem to forget about all the tools and resources when attacking, defending, re
 
 * [Security Focused Operating Systems](#security-focused-operating-systems)
 * [Penetration Testing Tools](#penetration-testing-tools)
-  * [Enumeration](#Enumeration)
-  * [Exploitation](#Exploitation)
-  * [Privilege Escalation](#Privilege-Escalation)
+  * [Enumeration](#enumeration)
+  * [Exploitation](#exploitation)
+  * [Privilege Escalation](#privilege-escalation)
   * [Miscellaneous](#miscellaneous)
 * [DFIR](#dfir)
 * [Malware Analysis](#malware-analysis)
-* [Reverse Engineering](#Reverse-Engineering)
+* [Reverse Engineering](#reverse-engineering)
 * [Networking](#networking)
 * [Exploit Tools](#exploit-tools)
 * [OSINT](#osint)
-* [Practice Sites](#Practice-Sites)
-* [Youtube Channels](#Youtube-Channels)
-* [Awesome Repos](#Awesome-Repos)
-* [Walkthroughs/Guides](#Walkthroughs-and-Guides)
+* [Practice Sites](#practice-sites)
+* [Youtube Channels](#youtube-channels)
+* [Awesome Repos](#awesome-repos)
+* [Walkthroughs](#walkthroughs)
 * [Learning Materials](#learning-materials)
 * [Books and Cheatsheets](#books-and-cheatsheets)
 
@@ -56,9 +56,11 @@ Name | Description
 [PSPY](https://github.com/DominicBreuker/pspy) | A command line tool designed to snoop on processes without need for root permissions.
 [WPScan](https://github.com/wpscanteam/wpscan) | A free, for non-commercial use, black box WordPress security scanner written for security professionals and blog maintainers to test the security of their WordPress websites.
 **Exploitation** |
-[p0wny shell](https://github.com/flozz/p0wny-shell) | Single-file PHP shell.
-[ShellPop](https://github.com/0x00-0x00/ShellPop) | Generate easy and sophisticated reverse or bind shell commands to help you during penetration tests.
 [Exploit Suggester](https://github.com/wwong99/pentest-notes/blob/master/scripts/xploit_installer.py) | Python script to suggesst different exploits to run on different Linux and Windows machines.
+[p0wny shell](https://github.com/flozz/p0wny-shell) | Single-file PHP shell.
+[SharpCat](https://github.com/Cn33liz/SharpCat) | A Simple Reversed Command Shell which can be started using InstallUtil (Bypassing AppLocker)
+[ShellPop](https://github.com/0x00-0x00/ShellPop) | Generate easy and sophisticated reverse or bind shell commands to help you during penetration tests.
+[ZackAttack!](https://github.com/urbanesec/ZackAttack) | A new Tool Set to do NTLM Authentication relaying unlike any other tool currently out there.
 **Privilege Escalation** |
 [DirtyCow POC](https://github.com/dirtycow/dirtycow.github.io/wiki/PoCs) | Table listing the source code to several different variations of dirtycow.
 [GTFOBins](https://gtfobins.github.io) | A curated list of Unix binaries that can used to bypass local security restrictions in misconfigured systems.
@@ -95,6 +97,7 @@ Name | Description
 [CCNA Subreddit](https://www.reddit.com/r/ccna/wiki/index) | Subreddit dedicated to the CCNA Exam.
 [CCNA\CCENT Training Series](https://www.youtube.com/playlist?list=PLmdYg02XJt6QRQfYjyQcMPfS3mrSnFbRC) | A full course of 84 videos for CCNA and CCENT Routing and Switching taught by Cisco Instructor Andrew Crouthamel.
 [CCNA Training Series](https://www.youtube.com/playlist?list=PLh94XVT4dq02frQRRZBHzvj2hwuhzSByN) | Youtube Series on CCNA information.
+[Impacket](https://github.com/SecureAuthCorp/impacket) | A collection of Python classes for working with network protocols.
 [SubnettingPractice](https://subnettingpractice.com) | The most extensive subnetting practice site on the web!
 [Subnetting.net](https://www.subnetting.net/Subnetting.aspx?mode=practice) | Sunetting practice tools.
 [Wireshark](https://www.wireshark.org/download.html) | The world’s foremost and widely-used network protocol analyzer.
@@ -187,8 +190,9 @@ Name | Description
 [Awesome ICS Security](https://github.com/hslatman/awesome-industrial-control-system-security) | A curated list of resources related to Industrial Control System (ICS) security.
 [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response) | A curated list of tools and resources for security incident response, aimed to help security analysts and DFIR teams.
 [Awesome Pentest](https://github.com/enaqx/awesome-pentest) | A collection of awesome penetration testing resources, tools, and other shiny things.
+[Awesome Windows Exploitation](https://libraries.io/github/enddo/awesome-windows-exploitation) | A curated list of awesome Windows Exploitation resources, and shiny things.
 
-### Walkthroughs and Guides
+### Walkthroughs
 
 Name | Description
 ---- | ----
@@ -215,9 +219,12 @@ Name | Description
 [Advanced Nmap: Scanning Techniques Continued - Part 3](https://www.opensourceforu.com/2010/12/advanced-nmap-scanning-techniques-continued/) | More interesting scanning techniques.
 [Advanced Nmap: Fin Scan & OS Detection](https://www.opensourceforu.com/2011/01/advanced-nmap-fin-scan-and-os-detection/) | Various other command-line options.
 **Exploitation**|
+[AppLocker Bypass](https://pentestlab.blog/2017/05/23/applocker-bypass-rundll32/) | Using Rundll32 to bypass Applocker.
 [Attacking & Securing WordPress](https://hackertarget.com/attacking-wordpress/) | Tecniques for enumeration and exploitation of wordpress sites.
+[Executing Meterpreter in Memory](https://www.n00py.io/2018/06/executing-meterpreter-in-memory-on-windows-10-and-bypassing-antivirus/) | technique for executing an obfuscated PowerShell payload using Invoke-CradleCrafter in memory.
 [How to hack a Wordpress site](https://www.hackingloops.com/how-to-hack-wordpress/) | Hacking a wordpress sites using different techniques.
-[How to pentest your WordPress site](https://hackertarget.com/attacking-wordpress/) | How to perform a pentest on you a wordpress site. More techniques and tools
+[How to pentest your WordPress site](https://hackertarget.com/attacking-wordpress/) | How to perform a pentest on you a wordpress site. More techniques and tools.
+[Practical guide to NTLM Relaying](https://byt3bl33d3r.github.io/practical-guide-to-ntlm-relaying-in-2017-aka-getting-a-foothold-in-under-5-minutes.html) | Practical guide to help clear up any confusion regarding NTLM relaying.
 [WordPress plugin Vulneribilities](https://wpscan.com/plugins) | List of all vulnerabilities for WordPress plugins.
 **Reverse Engineering** |
 [Assembly Programming Tutorial](https://www.tutorialspoint.com/assembly_programming/index.htm) | A tutorial on programming in nasm Assembly.
@@ -234,6 +241,7 @@ Name | Description
 [Malware Analysis Tutorial](http://fumalwareanalysis.blogspot.com/p/malware-analysis-tutorials-reverse.html) | Malware Analysis Tutorials: a Reverse Engineering Approach.
 [Reversing for Newbies](https://forum.tuts4you.com/files/file/1307-lenas-reversing-for-newbies/) | A collection of tutorials aimed particularly for newbie reverse engineers.
 [So you want to be a Malware Analyst](https://blog.malwarebytes.com/security-world/2012/09/so-you-want-to-be-a-malware-analyst/) | Malwarebytes blog on becomming a malware analyst and what all is involved.
+[Windows oneliners to download and execute code](https://arno0x0x.wordpress.com/2017/11/20/windows-oneliners-to-download-remote-payload-and-execute-arbitrary-code/) | Oneliners for executing arbitrary command lines and eventually compromising a system.
 **Privilege Escalation** |
 [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/) | Blog teaching the basics of Linux Privelege Escalation.
 [Linux Privilege Escalation Techniques](https://www.sans.org/reading-room/whitepapers/linux/paper/37562) | SANS papers on the linux privilege escalation.
@@ -261,3 +269,5 @@ Name | Description
 [SANS Pentest Posters](https://www.sans.org/security-resources/posters/pen-testing) | These are Pentesting Posters that SANS supplies.
 [SANS Cheatsheets](https://www.danielowen.com/2017/01/01/sans-cheat-sheets/) | Various SANS cheatsheets.
 [Pentesting Tools Cheatsheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/) | A quick reference high level overview for typical penetration testing engagements from highon.coffee.
+[Volatility Command Reference](https://github.com/volatilityfoundation/volatility/wiki/Command-Reference) | Quick reference command list for Volatility.
+[Windows Post Exploitation Command List](http://www.handgrep.se/repository/cheatsheets/postexploitation/WindowsPost-Exploitation.pdf) | Quick Reference command list used in post-exploitation of windows machines.
