@@ -66,15 +66,19 @@ Name | Description
 [GTFOBins](https://gtfobins.github.io) | A curated list of Unix binaries that can used to bypass local security restrictions in misconfigured systems.
 [Unix Privilege Escalation](https://github.com/pentestmonkey/unix-privesc-check) | Shell script to check for simple privilege escalation vectors on Unix systems.
 **Miscellaneous** |
-[Kali Tools](https://tools.kali.org/tools-listing) | List of all the tools that are pre-installed on Kali linux and an explanation to what they do.
-[Pentest Checklist](https://github.com/netbiosX/Checklists) | Different Checklists to run through durring a pentest engagement.
 [CyberChef](http://icyberchef.com/) | Encoding and decoding tool for a variety of different ciphers.
+[Kali Tools](https://tools.kali.org/tools-listing) | List of all the tools that are pre-installed on Kali linux and an explanation to what they do.
+[Payload All the Things](https://github.com/swisskyrepo/PayloadsAllTheThings) | A list of useful payloads and bypass for Web Application Security and Pentest/CTF.
+[Pentest Checklist](https://github.com/netbiosX/Checklists) | Different Checklists to run through durring a pentest engagement.
+[PWNTools](https://github.com/Gallopsled/pwntools) | CTF framework and exploit development library.
+[Red Team Toolkit](https://github.com/Johnson90512/Red-Teaming-Toolkit) | A collection of open source and commercial tools that aid in red team operations.
+[Various Pentest Tools](https://github.com/trickster0?tab=repositories) | Pentesting tools from a pentester.
 
 ### DFIR
 
 Name | Description
 ---- | ----
-
+[Steganography Toolkit](https://github.com/DominicBreuker/stego-toolkit) | Collection of steganography tools - helps with CTF challenges.
 ### Malware Analysis
 
 Name | Description
@@ -186,10 +190,13 @@ Name | Description
 
 Name | Description
 ---- | ----
+[Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | A collection of various awesome lists for hackers, pentesters and security researchers.
 [Awesome Hacking](https://github.com/vitalysim/Awesome-Hacking-Resources) | A collection of hacking / penetration testing resources.
 [Awesome ICS Security](https://github.com/hslatman/awesome-industrial-control-system-security) | A curated list of resources related to Industrial Control System (ICS) security.
 [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response) | A curated list of tools and resources for security incident response, aimed to help security analysts and DFIR teams.
 [Awesome Pentest](https://github.com/enaqx/awesome-pentest) | A collection of awesome penetration testing resources, tools, and other shiny things.
+[Awesome Reversing](https://github.com/tylerha97/awesome-reversing) | A curated list of awesome reversing resources.
+[Awesome Security](https://github.com/sbilly/awesome-security) | A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 [Awesome Windows Exploitation](https://libraries.io/github/enddo/awesome-windows-exploitation) | A curated list of awesome Windows Exploitation resources, and shiny things.
 
 ### Walkthroughs
@@ -218,12 +225,15 @@ Name | Description
 [Advanced Nmap: Some Scan Types - Part 2](https://www.opensourceforu.com/2010/11/advanced-nmap-some-scan-types/) | Various Nmap scan types, and the practical use of these commands to scan various devices and networks.
 [Advanced Nmap: Scanning Techniques Continued - Part 3](https://www.opensourceforu.com/2010/12/advanced-nmap-scanning-techniques-continued/) | More interesting scanning techniques.
 [Advanced Nmap: Fin Scan & OS Detection](https://www.opensourceforu.com/2011/01/advanced-nmap-fin-scan-and-os-detection/) | Various other command-line options.
+[db_nmap](https://machn1k.wordpress.com/tag/db_nmap/) | Running nmap from within metasploit.
+[Parsing ls](http://mywiki.wooledge.org/ParsingLs) | Why you shouldn't parse the output of ls(1).
 **Exploitation**|
 [AppLocker Bypass](https://pentestlab.blog/2017/05/23/applocker-bypass-rundll32/) | Using Rundll32 to bypass Applocker.
 [Attacking & Securing WordPress](https://hackertarget.com/attacking-wordpress/) | Tecniques for enumeration and exploitation of wordpress sites.
 [Executing Meterpreter in Memory](https://www.n00py.io/2018/06/executing-meterpreter-in-memory-on-windows-10-and-bypassing-antivirus/) | technique for executing an obfuscated PowerShell payload using Invoke-CradleCrafter in memory.
 [How to hack a Wordpress site](https://www.hackingloops.com/how-to-hack-wordpress/) | Hacking a wordpress sites using different techniques.
 [How to pentest your WordPress site](https://hackertarget.com/attacking-wordpress/) | How to perform a pentest on you a wordpress site. More techniques and tools.
+[Metasploit Tutorial](https://www.opentechinfo.com/metasploit-tutorials/) | Metasploit Tutorial for beginners: Master in 5 minutes.
 [Practical guide to NTLM Relaying](https://byt3bl33d3r.github.io/practical-guide-to-ntlm-relaying-in-2017-aka-getting-a-foothold-in-under-5-minutes.html) | Practical guide to help clear up any confusion regarding NTLM relaying.
 [WordPress plugin Vulneribilities](https://wpscan.com/plugins) | List of all vulnerabilities for WordPress plugins.
 **Reverse Engineering** |
@@ -256,6 +266,7 @@ Name | Description
 **Hacking and Pentesting** |
 [Pentesting Methodology](http://www.0daysecurity.com/pentest.html) | Step by step walkthough of a basic pentesting methodology.
 [The Hacking Process](https://bitvijays.github.io) | Lots of information on the hacking process.
+[Guide to Penetration Testing](https://www.varonis.com/blog/varonis-six-part-guide-to-penetration-testing/) | Varonis Seven Part Guide to Penetration Testing.
 
 ### Books and Cheatsheets
 
