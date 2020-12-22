@@ -8,24 +8,26 @@ I seem to forget about all the tools and resources when attacking, defending, re
 
 ## Table of Contents
 
-* [Security Focused Operating Systems](#security-focused-operating-systems)
-* [Penetration Testing Tools](#penetration-testing-tools)
-  * [Enumeration](#enumeration)
-  * [Exploitation](#exploitation)
-  * [Privilege Escalation](#privilege-escalation)
-  * [Miscellaneous](#miscellaneous)
-* [DFIR](#dfir)
-* [Malware Analysis](#malware-analysis)
-* [Reverse Engineering](#reverse-engineering)
-* [Networking](#networking)
-* [Exploit Tools](#exploit-tools)
-* [OSINT](#osint)
-* [Practice Sites](#practice-sites)
-* [Youtube Channels](#youtube-channels)
-* [Awesome Repos](#awesome-repos)
-* [Walkthroughs](#walkthroughs)
-* [Learning Materials](#learning-materials)
-* [Books and Cheatsheets](#books-and-cheatsheets)
+* [Awesome Security Resources](#awesome-security-resources)
+  * [Security Focused Operating Systems](#security-focused-operating-systems)
+  * [Penetration Testing Tools](#penetration-testing-tools)
+    * [Enumeration](#enumeration)
+    * [Exploitation](#exploitation)
+    * [Privilege Escalation](#privilege-escalation)
+    * [Miscellaneous](#miscellaneous)
+  * [DFIR](#dfir)
+  * [Malware Analysis](#malware-analysis)
+  * [Reverse Engineering](#reverse-engineering)
+  * [Networking](#networking)
+  * [Exploit Tools](#exploit-tools)
+  * [OSINT](#osint)
+  * [Practice Sites](#practice-sites)
+  * [Youtube Channels](#youtube-channels)
+  * [Awesome Repos](#awesome-repos)
+  * [Walkthroughs](#walkthroughs)
+  * [Learning Materials](#learning-materials)
+  * [Books and Cheatsheets](#books-and-cheatsheets)
+* [Contribution](#contribution)
 
 ### Security Focused Operating Systems
 
@@ -79,6 +81,7 @@ Name | Description
 Name | Description
 ---- | ----
 [Steganography Toolkit](https://github.com/DominicBreuker/stego-toolkit) | Collection of steganography tools - helps with CTF challenges.
+
 ### Malware Analysis
 
 Name | Description
@@ -190,14 +193,29 @@ Name | Description
 
 Name | Description
 ---- | ----
-[Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | A collection of various awesome lists for hackers, pentesters and security researchers.
-[Awesome Hacking](https://github.com/vitalysim/Awesome-Hacking-Resources) | A collection of hacking / penetration testing resources.
-[Awesome ICS Security](https://github.com/hslatman/awesome-industrial-control-system-security) | A curated list of resources related to Industrial Control System (ICS) security.
-[Awesome Incident Response](https://github.com/meirwah/awesome-incident-response) | A curated list of tools and resources for security incident response, aimed to help security analysts and DFIR teams.
-[Awesome Pentest](https://github.com/enaqx/awesome-pentest) | A collection of awesome penetration testing resources, tools, and other shiny things.
-[Awesome Reversing](https://github.com/tylerha97/awesome-reversing) | A curated list of awesome reversing resources.
-[Awesome Security](https://github.com/sbilly/awesome-security) | A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
-[Awesome Windows Exploitation](https://libraries.io/github/enddo/awesome-windows-exploitation) | A curated list of awesome Windows Exploitation resources, and shiny things.
+[Android Security](https://github.com/ashishb/android-security-awesome#readme) | A collection of android security related resources.
+[Application Security](https://github.com/paragonie/awesome-appsec#readme) | A curated list of resources for learning about application security.
+[CTF](https://github.com/apsdehal/awesome-ctf#readme) | A curated list of CTF frameworks, libraries, resources and softwares.
+[Cybersecurity Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme) | A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
+[DevSecOps](https://github.com/TaptuIT/awesome-devsecops#readme) | Curating the best DevSecOps resources and tooling.
+[Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme) | A curated list of awesome embedded and IoT security resources.
+[Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) | A curated list of awesome Fuzzing(or Fuzz Testing) for software security.
+[GDPR](https://github.com/bakke92/awesome-gdpr#readme) | Protection of natural persons with regard to the processing of personal data and on the free movement of such data.
+[Hacking - carpedm20](https://github.com/carpedm20/awesome-hacking#readme) | A curated list of awesome Hacking tutorials, tools and resources.
+[Hacking - Hack with Github](https://github.com/Hack-with-Github/Awesome-Hacking) | A collection of various awesome lists for hackers, pentesters and security researchers.
+[Hacking - vitalysim](https://github.com/vitalysim/Awesome-Hacking-Resources) | A collection of hacking / penetration testing resources to make you better!
+[Honeypots](https://github.com/paralax/awesome-honeypots#readme) | An awesome list of honeypot resources
+[Industrial Control Systems Security](https://github.com/hslatman/awesome-industrial-control-system-security) | A curated list of resources related to Industrial Control System (ICS) security.
+[Incident Response](https://github.com/meirwah/awesome-incident-response#readme) | A curated list of tools for incident response.
+[Lockpicking](https://github.com/fabacab/awesome-lockpicking#readme) | A curated list of awesome guides, tools, and other resources related to the security and compromise of locks, safes, and keys.
+[Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme) | A collention of awesome malware analysis tools
+[Pentest](https://github.com/enaqx/awesome-pentest) | A collection of awesome penetration testing resources, tools, and other shiny things.
+[Pcap Tools](https://github.com/caesar0301/awesome-pcaptools) | A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.
+[Reversing](https://github.com/tylerha97/awesome-reversing) | A curated list of awesome reversing resources.
+[Security](https://github.com/sbilly/awesome-security#readme) | A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
+[Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security#readme) | A curated list of resources for learning about vehicle security and car hacking.
+[Web Security](https://github.com/qazbnm456/awesome-web-security#readme) | A curated list of Web Security materials and resources.
+[Windows Exploitation](https://libraries.io/github/enddo/awesome-windows-exploitation) | A curated list of awesome Windows Exploitation resources, and shiny things.
 
 ### Walkthroughs
 
@@ -282,3 +300,11 @@ Name | Description
 [Pentesting Tools Cheatsheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/) | A quick reference high level overview for typical penetration testing engagements from highon.coffee.
 [Volatility Command Reference](https://github.com/volatilityfoundation/volatility/wiki/Command-Reference) | Quick reference command list for Volatility.
 [Windows Post Exploitation Command List](http://www.handgrep.se/repository/cheatsheets/postexploitation/WindowsPost-Exploitation.pdf) | Quick Reference command list used in post-exploitation of windows machines.
+
+# Contributing
+
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md) first.
+
+- - -
+
+If you have any question about this opinionated list, do not hesitate to contact me [@johnson90512](https://twitter.com/johnson90512) on Twitter or open an issue on GitHub.
