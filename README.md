@@ -11,11 +11,6 @@ I seem to forget about all the tools and resources when attacking, defending, re
 * [Awesome Security Resources](#awesome-security-resources)
   * [Security Focused Operating Systems](#security-focused-operating-systems)
   * [Penetration Testing Tools](#penetration-testing-tools)
-    * [Enumeration](#enumeration)
-    * [Exploitation](#exploitation)
-    * [Privilege Escalation](#privilege-escalation)
-    * [Miscellaneous](#miscellaneous)
-  * [DFIR](#dfir)
   * [Malware Analysis](#malware-analysis)
   * [Reverse Engineering](#reverse-engineering)
   * [Networking](#networking)
@@ -27,6 +22,7 @@ I seem to forget about all the tools and resources when attacking, defending, re
   * [Walkthroughs](#walkthroughs)
   * [Learning Materials](#learning-materials)
   * [Books and Cheatsheets](#books-and-cheatsheets)
+  * [Podcasts](#podcasts)
 * [Contributing](#contributing)
 
 ### Security Focused Operating Systems
@@ -298,6 +294,12 @@ Name | Description
 [Pentesting Tools Cheatsheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/) | A quick reference high level overview for typical penetration testing engagements from highon.coffee.
 [Volatility Command Reference](https://github.com/volatilityfoundation/volatility/wiki/Command-Reference) | Quick reference command list for Volatility.
 [Windows Post Exploitation Command List](http://www.handgrep.se/repository/cheatsheets/postexploitation/WindowsPost-Exploitation.pdf) | Quick Reference command list used in post-exploitation of windows machines.
+
+### Podcasts
+
+Name | Description
+---- | ----
+[Security Now!](https://twit.tv/shows/security-now) | Security podcast with Steve Gibson and Leo Laporte.
 
 # Contributing
 
