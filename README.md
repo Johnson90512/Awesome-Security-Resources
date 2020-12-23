@@ -33,10 +33,11 @@ I seem to forget about all the tools and resources when attacking, defending, re
 
 Name | Description
 ---- | ----
-[Commando VM](https://github.com/fireeye/commando-vm) | Virtual Machine dedicated to penetration testing using Windows 10 built by FireEye
-[FLARE-VM](https://www.fireeye.com/blog/threat-research/2017/07/flare-vm-the-windows-malware.html) | Virtual Machine dedicated to malware analysis and reverse engineering using Windows 10 built by FireEye
+[Commando VM](https://github.com/fireeye/commando-vm) | Virtual Machine dedicated to penetration testing using Windows 10 built by FireEye.
+[FLARE-VM](https://www.fireeye.com/blog/threat-research/2017/07/flare-vm-the-windows-malware.html) | Virtual Machine dedicated to malware analysis and reverse engineering using Windows 10 built by FireEye.
 [Kali Linux](https://www.kali.org) | Open source linux operating system. Lots of built in tools for penetration testing and offensive security.
-[Parrot OS](https://parrotsec.org) | Debian-based linux operting system focused on security and privacy. Has lots of built in tools
+[Parrot OS](https://parrotsec.org) | Debian-based linux operting system focused on security and privacy. Has lots of built in tools.
+[SIFT Workstation](https://digital-forensics.sans.org/community/downloads) |  a group of free open-source incident response and forensic tools designed to perform detailed digital forensic examinations in a variety of settings.
 
 ### Penetration Testing Tools
 
@@ -80,12 +81,18 @@ Name | Description
 
 Name | Description
 ---- | ----
+[Jeffrey's Image Metadata Viewer](http://exif.regex.info/exif.cgi) | Shows the data that might be inside a digital image file.
 [Steganography Toolkit](https://github.com/DominicBreuker/stego-toolkit) | Collection of steganography tools - helps with CTF challenges.
+[Volatility](https://github.com/volatilityfoundation/volatility) | An advanced memory forensics framework.
+[VolUtility](https://github.com/kevthehermit/VolUtility) | Web App for Volatility framework
 
 ### Malware Analysis
 
 Name | Description
 ---- | ----
+[Triage](https://tria.ge) | Malware sandbox or analysis.
+[Hybrid Analysis](https://hybrid-analysis.com) | Free automated malware service
+[Virus Total](https://www.virustotal.com/gui/) | Online malacious file analyzer
 
 ### Reverse Engineering
 
@@ -223,15 +230,6 @@ Name | Description
 ---- | ----
 [Hackso.me](https://hackso.me/categories/) | CTF, HacktheBox, and Vulnhub walkthroughs
 [HackTheBox Guides](https://0xdf.gitlab.io/) | Guides/Walkthroughs for various retired HacktheBox machines.
-
-### Web Tools
-
-Name | Description
----- | ----
-[Triage](https://tria.ge) | Malware sandbox or analysis.
-[Hybrid Analysis](https://hybrid-analysis.com) | Free automated malware service
-[Virus Total](https://www.virustotal.com/gui/) | Online malacious file analyzer
-[Jeffrey's Image Metadata Viewer](http://exif.regex.info/exif.cgi) | Shows the data that might be inside a digital image file.
 
 ### Learning Materials
 
