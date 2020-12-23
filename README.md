@@ -299,7 +299,14 @@ Name | Description
 
 Name | Description
 ---- | ----
+[7 Minute Security](https://7ms.us) | A weekly infosec podcast about pentesting, blue teaming and building a career in security.
+[Hackable?](https://hackablepodcast.com) | Hackable? gives us a front row seat to explore where we’re vulnerable in our daily routines, without even realizing it.
+[InfoSec ICU](https://www.stitcher.com/show/infosec-icu) | The Health Information Security podcast from the Medical University of South Carolina.
+[Malicious Life](https://malicious.life) | Malicious Life by Cybereason tells the unknown stories of the history of cybersecurity, with comments and reflections by real hackers, security experts, journalists, and politicians.
+[Risky Business](https://risky.biz) | Risky Business podcast features news and in-depth commentary from security industry luminaries.
+[SANS Internet Stormcenter Daily Network/Cyber Security and Information Security Stormcast](https://isc.sans.edu/podcast.html) | A brief daily summary of what is important in cyber security.
 [Security Now!](https://twit.tv/shows/security-now) | Security podcast with Steve Gibson and Leo Laporte.
+[The CyberWire Daily](https://thecyberwire.com/podcasts/daily-podcast) | The daily cybersecurity news and analysis industry leaders depend on.
 
 # Contributing
 
