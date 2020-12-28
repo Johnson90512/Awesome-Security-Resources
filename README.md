@@ -286,7 +286,12 @@ Name | Description
 ---- | ----
 **Books** |
 **Cheatsheets** |
-[Radare2 Cheatsheet](https://scoding.de/uploads/r2_cs.pdf) | Cheatsheel of common commands for program Radare2
+[DFIR Infographics](https://www.dfir.training/infographics-cheats) | Infographics about various DFI topics including file info, volume info, attribute info.
+[General DFIR](https://www.dfir.training/general-dfir) | Cheatsheets for general dfir info.
+[Malware Analysis](https://www.dfir.training/malware-cheats) | Cheatsheets for different aspects of malware analysis.
+[Memory Forensics](https://www.dfir.training/memory-cheats) | Cheatsheets for memory forensics. SANS memory forensics.
+[OSINT](https://www.dfir.training/osint-cheats) | Cheatsheets for OSINT strategies and tools.
+[Radare2 Cheatsheet](https://scoding.de/uploads/r2_cs.pdf) | Cheatsheet of common commands for program Radare2
 [Reverse Shell Cheatsheet](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet) |  Several different types of reverse shells
 [SANS DFIR](https://digital-forensics.sans.org/community/cheat-sheets) | Digital Forensics and Incident Response cheatsheets from SANS.
 [SANS Pentest Posters](https://www.sans.org/security-resources/posters/pen-testing) | These are Pentesting Posters that SANS supplies.
@@ -294,6 +299,7 @@ Name | Description
 [Pentesting Tools Cheatsheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/) | A quick reference high level overview for typical penetration testing engagements from highon.coffee.
 [Volatility Command Reference](https://github.com/volatilityfoundation/volatility/wiki/Command-Reference) | Quick reference command list for Volatility.
 [Windows Post Exploitation Command List](http://www.handgrep.se/repository/cheatsheets/postexploitation/WindowsPost-Exploitation.pdf) | Quick Reference command list used in post-exploitation of windows machines.
+[Windows Registry Forensics](https://www.dfir.training/registry-cheats) | Cheatsheets on windows registry for different tools and information.
 
 ### Podcasts
 
