@@ -24,6 +24,7 @@ I seem to forget about all the tools and resources when attacking, defending, re
   * [Books and Cheatsheets](#books-and-cheatsheets)
   * [Podcasts](#podcasts)
   * [Documentation](#documentation)
+  * [ICS Information](#ics-information)
 * [Contributing](#contributing)
 
 ### Security Focused Operating Systems
@@ -212,6 +213,7 @@ Name | Description
 [Hacking - vitalysim](https://github.com/vitalysim/Awesome-Hacking-Resources) | A collection of hacking / penetration testing resources to make you better!
 [Honeypots](https://github.com/paralax/awesome-honeypots#readme) | An awesome list of honeypot resources
 [Industrial Control Systems Security](https://github.com/hslatman/awesome-industrial-control-system-security) | A curated list of resources related to Industrial Control System (ICS) security.
+[ICS Writeups](https://github.com/neutrinoguy/awesome-ics-writeups) | Collection of writeups on ICS/SCADA security.
 [Incident Response](https://github.com/meirwah/awesome-incident-response#readme) | A curated list of tools for incident response.
 [Lockpicking](https://github.com/fabacab/awesome-lockpicking#readme) | A curated list of awesome guides, tools, and other resources related to the security and compromise of locks, safes, and keys.
 [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme) | A collention of awesome malware analysis tools
@@ -342,10 +344,21 @@ Name | Description
 
 Name | Description
 ---- | ----
-**C**
+**C**|
 [Learn C](https://www.learn-c.org) | Free interactive C tutorial.
 **Python**
 [Learn Python](https://www.learnpython.org) | Free Python tutorial.
+
+### ICS Tools
+
+Name | Description
+---- | ----
+**Learning Materials** |
+[Getting Started in ICS](http://www.robertmlee.org/a-collection-of-resources-for-getting-started-in-icsscada-cybersecurity/) | A Collection of Resources for Getting Started in ICS/SCADA Cybersecurity.
+[SCADA Hacking](https://www.hackers-arise.com/scada-hacking) | Information on how to hack ics/scada devices.
+**Tools** |
+[Cronpot](https://github.com/mushorg/conpot) | ICS/SCADA honeypot.
+[ICS Security Tools](https://github.com/iti/ics-security-tools) | Tools, tips, tricks, and more for exploring ICS Security.
 
 # Contributing
 
