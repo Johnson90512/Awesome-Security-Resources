@@ -238,6 +238,7 @@ Name | Description
 [Advanced Nmap: Scanning Techniques Continued - Part 3](https://www.opensourceforu.com/2010/12/advanced-nmap-scanning-techniques-continued/) | More interesting scanning techniques.
 [Advanced Nmap: Fin Scan & OS Detection](https://www.opensourceforu.com/2011/01/advanced-nmap-fin-scan-and-os-detection/) | Various other command-line options.
 [db_nmap](https://machn1k.wordpress.com/tag/db_nmap/) | Running nmap from within metasploit.
+[GoBuster Guide](https://www.hackingarticles.in/comprehensive-guide-on-gobuster-tool/) | Comprehensive guide on GoBuster tool.
 [Parsing ls](http://mywiki.wooledge.org/ParsingLs) | Why you shouldn't parse the output of ls(1).
 **Exploitation**|
 [AppLocker Bypass](https://pentestlab.blog/2017/05/23/applocker-bypass-rundll32/) | Using Rundll32 to bypass Applocker.
