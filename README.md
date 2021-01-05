@@ -23,6 +23,8 @@ I seem to forget about all the tools and resources when attacking, defending, re
   * [Learning Materials](#learning-materials)
   * [Books and Cheatsheets](#books-and-cheatsheets)
   * [Podcasts](#podcasts)
+  * [Documentation](#documentation)
+  * [ICS Information](#ics-information)
 * [Contributing](#contributing)
 
 ### Security Focused Operating Systems
@@ -59,6 +61,8 @@ Name | Description
 [p0wny shell](https://github.com/flozz/p0wny-shell) | Single-file PHP shell.
 [SharpCat](https://github.com/Cn33liz/SharpCat) | A Simple Reversed Command Shell which can be started using InstallUtil (Bypassing AppLocker)
 [ShellPop](https://github.com/0x00-0x00/ShellPop) | Generate easy and sophisticated reverse or bind shell commands to help you during penetration tests.
+[Shellcode tools](https://github.com/malware-unicorn/shellcode_tools) | About
+Miscellaneous tools written in Python, mostly centered around shellcodes.
 [ZackAttack!](https://github.com/urbanesec/ZackAttack) | A new Tool Set to do NTLM Authentication relaying unlike any other tool currently out there.
 **Privilege Escalation** |
 [DirtyCow POC](https://github.com/dirtycow/dirtycow.github.io/wiki/PoCs) | Table listing the source code to several different variations of dirtycow.
@@ -209,6 +213,7 @@ Name | Description
 [Hacking - vitalysim](https://github.com/vitalysim/Awesome-Hacking-Resources) | A collection of hacking / penetration testing resources to make you better!
 [Honeypots](https://github.com/paralax/awesome-honeypots#readme) | An awesome list of honeypot resources
 [Industrial Control Systems Security](https://github.com/hslatman/awesome-industrial-control-system-security) | A curated list of resources related to Industrial Control System (ICS) security.
+[ICS Writeups](https://github.com/neutrinoguy/awesome-ics-writeups) | Collection of writeups on ICS/SCADA security.
 [Incident Response](https://github.com/meirwah/awesome-incident-response#readme) | A curated list of tools for incident response.
 [Lockpicking](https://github.com/fabacab/awesome-lockpicking#readme) | A curated list of awesome guides, tools, and other resources related to the security and compromise of locks, safes, and keys.
 [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme) | A collention of awesome malware analysis tools
@@ -254,17 +259,27 @@ Name | Description
 [Beginners Guide to Assembly](https://www.unknowncheats.me/forum/programming-beginners/63947-reverse-engineering-beginners-guide-x86-assembly-and-debugging-windows-apps.html) | This guide will explain exactly what is necessary to begin cheat creation for generally any online computer game, including both fields to study, and tools to use.
 [Beginner Reverse Engineering Info](https://www.reddit.com/r/ReverseEngineering/comments/hg0fx/a_modest_proposal_absolutely_no_babies_involved/) | Reddit collection of beginner information on getting into Reverse Engineering.
 [Building a Home Lab for Offensive Security](https://systemoverlord.com/2017/10/24/building-a-home-lab-for-offensive-security-basics.html) | Guide on how to build a home lab for security purposes.
+[Ghidra Simple Keygen Generation](https://www.youtube.com/watch?v=9SM4IvBFxK8) | From installing ghidra on ubuntu to writing a working keygen in python.
+[Ghidra Tutorial](https://www.youtube.com/channel/UCzw-AibbXjw7gcdaeN3Y6kA) | Youtube playlist on how to use ghidra using different example files.
 [Guide to x86 Assembly](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html) | This guide describes the basics of 32-bit x86 assembly language programming, covering a small but useful subset of the available instructions and assembler directives.
 [Guide to Assmebly in VS .NET](http://www.cs.virginia.edu/~evans/cs216/guides/vsasm.html)  | This tutorial explains how to use assembly code in a Visual Studio .NET project.
 [How to start out in Reverse Engineering](https://www.reddit.com/r/ReverseEngineering/comments/12ajwc/how_to_start_out_in_reverse_engineering/) | Reddit post on the steps to get started in Reverse Engineering.
 [IDA Pro Tutorial](https://www.youtube.com/playlist?list=PLt9cUwGw6CYG2kmL5n6dFgi4wKMhgLNd7) | Tutorial on how to reverse engineer with IDA Pro.
 [Intel 64 and IA32 Software Manual](https://software.intel.com/sites/default/files/managed/39/c5/325462-sdm-vol-1-2abcd-3abcd.pdf) | This document contains all four volumes of the Intel 64 and IA-32 Architectures Software Developer's Manual.
 [Intermediate x86](https://opensecuritytraining.info/IntermediateX86.html) | Intermediate Intel x86: Architecture, Assembly, Applications, & Alliteration. Part 2 to Into to x86.
+[Intro to Malware Analysis and Reverse Engineering](https://www.cybrary.it/course/malware-analysis/) | Malware analysis course to learn how to perform dynamic and static analysis on all major files types, how to carve malicious executables from documents and how to recognize common malware tactics and debug and disassemble malicious binaries.
 [Intro to x86](https://opensecuritytraining.info/IntroX86.html) | Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration.
 [Malware Analysis Tutorial](http://fumalwareanalysis.blogspot.com/p/malware-analysis-tutorials-reverse.html) | Malware Analysis Tutorials: a Reverse Engineering Approach.
+[Mastering Ghidra](https://vimeo.com/335158460) | Video from Infiltrate 2019 on mastering Ghidra.
+[Myne-US](http://www.myne-us.com/2010/08/from-0x90-to-0x4c454554-journey-into.html) | From 0x90 to 0x4c454554, a journey into exploitation.
+[Reverse Engineering 101](https://vimeo.com/6764570) | Vimeo video by Dan Guido
+[Reverse Engineering 101 - Malware Unicorn](https://malwareunicorn.org/workshops/re101.html#0) | Malwareunicorn.org provides workshops and resources for reverse engineering in the infosec space. Workshop content is now available.
+[Reverse Engineering 102](https://vimeo.com/30594548) | Vimeo video by Dan Guido
 [Reversing for Newbies](https://forum.tuts4you.com/files/file/1307-lenas-reversing-for-newbies/) | A collection of tutorials aimed particularly for newbie reverse engineers.
+[RE Guide for beginners](https://0x00sec.org/t/re-guide-for-beginners-methodology-and-tools/2242) | Methodology and Tools of reverse engineering.
 [So you want to be a Malware Analyst](https://blog.malwarebytes.com/security-world/2012/09/so-you-want-to-be-a-malware-analyst/) | Malwarebytes blog on becomming a malware analyst and what all is involved.
 [Windows oneliners to download and execute code](https://arno0x0x.wordpress.com/2017/11/20/windows-oneliners-to-download-remote-payload-and-execute-arbitrary-code/) | Oneliners for executing arbitrary command lines and eventually compromising a system.
+[Where to start in leaning reverse engineering](https://news.ycombinator.com/item?id=7143186) | Forum post detailing the process to start learning reverse engineering.
 **Privilege Escalation** |
 [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/) | Blog teaching the basics of Linux Privelege Escalation.
 [Linux Privilege Escalation Techniques](https://www.sans.org/reading-room/whitepapers/linux/paper/37562) | SANS papers on the linux privilege escalation.
@@ -280,12 +295,15 @@ Name | Description
 [Pentesting Methodology](http://www.0daysecurity.com/pentest.html) | Step by step walkthough of a basic pentesting methodology.
 [The Hacking Process](https://bitvijays.github.io) | Lots of information on the hacking process.
 [Guide to Penetration Testing](https://www.varonis.com/blog/varonis-six-part-guide-to-penetration-testing/) | Varonis Seven Part Guide to Penetration Testing.
+**CTF** |
+[CTF Field Guide](https://trailofbits.github.io/ctf/) | How to get started in CTFs
 
 ### Books and Cheatsheets
 
 Name | Description
 ---- | ----
 **Books** |
+[Programming from the Ground Up](http://nongnu.askapache.com/pgubook/ProgrammingGroundUp-1-0-booksize.pdf) | Using Linux assembly language to teach new programmers the most important concepts in programming.
 **Cheatsheets** |
 [DFIR Infographics](https://www.dfir.training/infographics-cheats) | Infographics about various DFI topics including file info, volume info, attribute info.
 [General DFIR](https://www.dfir.training/general-dfir) | Cheatsheets for general dfir info.
@@ -297,10 +315,12 @@ Name | Description
 [SANS DFIR](https://digital-forensics.sans.org/community/cheat-sheets) | Digital Forensics and Incident Response cheatsheets from SANS.
 [SANS Pentest Posters](https://www.sans.org/security-resources/posters/pen-testing) | These are Pentesting Posters that SANS supplies.
 [SANS Cheatsheets](https://www.danielowen.com/2017/01/01/sans-cheat-sheets/) | Various SANS cheatsheets.
+[THC Favorite tips, tricks and hacks](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) | Various tips & tricks
 [Pentesting Tools Cheatsheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/) | A quick reference high level overview for typical penetration testing engagements from highon.coffee.
 [Volatility Command Reference](https://github.com/volatilityfoundation/volatility/wiki/Command-Reference) | Quick reference command list for Volatility.
 [Windows Post Exploitation Command List](http://www.handgrep.se/repository/cheatsheets/postexploitation/WindowsPost-Exploitation.pdf) | Quick Reference command list used in post-exploitation of windows machines.
 [Windows Registry Forensics](https://www.dfir.training/registry-cheats) | Cheatsheets on windows registry for different tools and information.
+[x86 and and64 instruction reference](https://www.felixcloutier.com/x86/) | Reference for instructions with included summary of each.
 
 ### Podcasts
 
@@ -314,6 +334,32 @@ Name | Description
 [SANS Internet Stormcenter Daily Network/Cyber Security and Information Security Stormcast](https://isc.sans.edu/podcast.html) | A brief daily summary of what is important in cyber security.
 [Security Now!](https://twit.tv/shows/security-now) | Security podcast with Steve Gibson and Leo Laporte.
 [The CyberWire Daily](https://thecyberwire.com/podcasts/daily-podcast) | The daily cybersecurity news and analysis industry leaders depend on.
+
+### Documentation
+
+Name | Description
+---- | ----
+[Security Policy Templates](https://www.sans.org/information-security-policy/) | SANS has developed and posted here a set of security policy templates for your use.
+
+### Programming
+
+Name | Description
+---- | ----
+**C**|
+[Learn C](https://www.learn-c.org) | Free interactive C tutorial.
+**Python**
+[Learn Python](https://www.learnpython.org) | Free Python tutorial.
+
+### ICS Tools
+
+Name | Description
+---- | ----
+**Learning Materials** |
+[Getting Started in ICS](http://www.robertmlee.org/a-collection-of-resources-for-getting-started-in-icsscada-cybersecurity/) | A Collection of Resources for Getting Started in ICS/SCADA Cybersecurity.
+[SCADA Hacking](https://www.hackers-arise.com/scada-hacking) | Information on how to hack ics/scada devices.
+**Tools** |
+[Cronpot](https://github.com/mushorg/conpot) | ICS/SCADA honeypot.
+[ICS Security Tools](https://github.com/iti/ics-security-tools) | Tools, tips, tricks, and more for exploring ICS Security.
 
 # Contributing
 
