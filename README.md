@@ -243,6 +243,7 @@ Name | Description
 [Advanced Nmap: Scanning Techniques Continued - Part 3](https://www.opensourceforu.com/2010/12/advanced-nmap-scanning-techniques-continued/) | More interesting scanning techniques.
 [Advanced Nmap: Fin Scan & OS Detection](https://www.opensourceforu.com/2011/01/advanced-nmap-fin-scan-and-os-detection/) | Various other command-line options.
 [db_nmap](https://machn1k.wordpress.com/tag/db_nmap/) | Running nmap from within metasploit.
+[GoBuster Guide](https://www.hackingarticles.in/comprehensive-guide-on-gobuster-tool/) | Comprehensive guide on GoBuster tool.
 [Parsing ls](http://mywiki.wooledge.org/ParsingLs) | Why you shouldn't parse the output of ls(1).
 **Exploitation**|
 [AppLocker Bypass](https://pentestlab.blog/2017/05/23/applocker-bypass-rundll32/) | Using Rundll32 to bypass Applocker.
@@ -284,6 +285,7 @@ Name | Description
 [Linux Privilege Escalation Techniques](https://www.sans.org/reading-room/whitepapers/linux/paper/37562) | SANS papers on the linux privilege escalation.
 [Linux Privilege Escalation tools/tactics](https://guif.re/linuxeop) | List of different linux privilege escalation tools and techniques as well as several scripts to download to automate the process.
 [Windows Privilege Escalation](https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/) | Guide on techniques for Windows Privilege Escalation.
+[LXD Privilege Escalation](https://www.hackingarticles.in/lxd-privilege-escalation/) | Describes how an account on the system that is a member of the lxd group is able to escalate the root privilege by exploiting the features of LXD.
 **Shells** |
 [How to build a RAT](https://www.quora.com/How-can-I-build-a-RAT-Remote-Access-Trojan-from-scratch-For-educational-purposes-only) | Building a RAT from scratch for educational purposes.
 [How to create a backdoor](https://null-byte.wonderhowto.com/how-to/hack-like-pro-create-nearly-undetectable-backdoor-with-cryptcat-0149264/) | Article on how to create a nearly undetectable backdoor with Cryptcat.
