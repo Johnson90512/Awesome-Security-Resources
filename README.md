@@ -349,7 +349,7 @@ Name | Description
 **Python**
 [Learn Python](https://www.learnpython.org) | Free Python tutorial.
 
-### ICS Tools
+### ICS Info
 
 Name | Description
 ---- | ----
