@@ -24,7 +24,7 @@ I seem to forget about all the tools and resources when attacking, defending, re
   * [Books and Cheatsheets](#books-and-cheatsheets)
   * [Podcasts](#podcasts)
   * [Documentation](#documentation)
-  * [ICS Information](#ics-information)
+  * [Industrial Control System Info](#industrial-control-system-info)
 * [Contributing](#contributing)
 
 ### Security Focused Operating Systems
@@ -35,7 +35,7 @@ Name | Description
 [FLARE-VM](https://www.fireeye.com/blog/threat-research/2017/07/flare-vm-the-windows-malware.html) | Virtual Machine dedicated to malware analysis and reverse engineering using Windows 10 built by FireEye.
 [Kali Linux](https://www.kali.org) | Open source linux operating system. Lots of built in tools for penetration testing and offensive security.
 [Parrot OS](https://parrotsec.org) | Debian-based linux operting system focused on security and privacy. Has lots of built in tools.
-[SIFT Workstation](https://digital-forensics.sans.org/community/downloads) |  a group of free open-source incident response and forensic tools designed to perform detailed digital forensic examinations in a variety of settings.
+[SIFT Workstation](https://digital-forensics.sans.org/community/downloads) |  A group of free open-source incident response and forensic tools designed to perform detailed digital forensic examinations in a variety of settings.
 
 ### Penetration Testing Tools
 
@@ -61,8 +61,7 @@ Name | Description
 [p0wny shell](https://github.com/flozz/p0wny-shell) | Single-file PHP shell.
 [SharpCat](https://github.com/Cn33liz/SharpCat) | A Simple Reversed Command Shell which can be started using InstallUtil (Bypassing AppLocker)
 [ShellPop](https://github.com/0x00-0x00/ShellPop) | Generate easy and sophisticated reverse or bind shell commands to help you during penetration tests.
-[Shellcode tools](https://github.com/malware-unicorn/shellcode_tools) | About
-Miscellaneous tools written in Python, mostly centered around shellcodes.
+[Shellcode tools](https://github.com/malware-unicorn/shellcode_tools) | About miscellaneous tools written in Python, mostly centered around shellcodes.
 [ZackAttack!](https://github.com/urbanesec/ZackAttack) | A new Tool Set to do NTLM Authentication relaying unlike any other tool currently out there.
 **Privilege Escalation** |
 [DirtyCow POC](https://github.com/dirtycow/dirtycow.github.io/wiki/PoCs) | Table listing the source code to several different variations of dirtycow.
@@ -351,13 +350,13 @@ Name | Description
 **Python**
 [Learn Python](https://www.learnpython.org) | Free Python tutorial.
 
-### ICS Info
+### Industrial Control System Info
 
 Name | Description
 ---- | ----
 **Learning Materials** |
 [Getting Started in ICS](http://www.robertmlee.org/a-collection-of-resources-for-getting-started-in-icsscada-cybersecurity/) | A Collection of Resources for Getting Started in ICS/SCADA Cybersecurity.
-[SCADA Hacking](https://www.hackers-arise.com/scada-hacking) | Information on how to hack ics/scada devices.
+[SCADA Hacking](https://www.hackers-arise.com/scada-hacking) | Information on how to hack ICS/SCADA devices.
 **Tools** |
 [Cronpot](https://github.com/mushorg/conpot) | ICS/SCADA honeypot.
 [ICS Security Tools](https://github.com/iti/ics-security-tools) | Tools, tips, tricks, and more for exploring ICS Security.
