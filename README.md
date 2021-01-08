@@ -310,13 +310,14 @@ Name | Description
 [Malware Analysis](https://www.dfir.training/malware-cheats) | Cheatsheets for different aspects of malware analysis.
 [Memory Forensics](https://www.dfir.training/memory-cheats) | Cheatsheets for memory forensics. SANS memory forensics.
 [OSINT](https://www.dfir.training/osint-cheats) | Cheatsheets for OSINT strategies and tools.
+[Pentesting Tools Cheatsheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/) | A quick reference high level overview.
 [Radare2 Cheatsheet](https://scoding.de/uploads/r2_cs.pdf) | Cheatsheet of common commands for program Radare2
 [Reverse Shell Cheatsheet](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet) |  Several different types of reverse shells
 [SANS DFIR](https://digital-forensics.sans.org/community/cheat-sheets) | Digital Forensics and Incident Response cheatsheets from SANS.
 [SANS Pentest Posters](https://www.sans.org/security-resources/posters/pen-testing) | These are Pentesting Posters that SANS supplies.
 [SANS Cheatsheets](https://www.danielowen.com/2017/01/01/sans-cheat-sheets/) | Various SANS cheatsheets.
 [THC Favorite tips, tricks and hacks](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) | Various tips & tricks
-[Pentesting Tools Cheatsheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/) | A quick reference high level overview for typical penetration testing engagements from highon.coffee.
+for typical penetration testing engagements from highon.coffee.
 [Volatility Command Reference](https://github.com/volatilityfoundation/volatility/wiki/Command-Reference) | Quick reference command list for Volatility.
 [Windows Post Exploitation Command List](http://www.handgrep.se/repository/cheatsheets/postexploitation/WindowsPost-Exploitation.pdf) | Quick Reference command list used in post-exploitation of windows machines.
 [Windows Registry Forensics](https://www.dfir.training/registry-cheats) | Cheatsheets on windows registry for different tools and information.
