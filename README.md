@@ -364,7 +364,7 @@ Name | Description
 
 # Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md) first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/Johnson90512/Awesome-Security-Resources/blob/main/contributing.md) first.
 
 - - -
 
