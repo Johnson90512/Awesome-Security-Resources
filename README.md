@@ -70,12 +70,14 @@ Name | Description
 **Miscellaneous** |
 [CyberChef](http://icyberchef.com/) | Encoding and decoding tool for a variety of different ciphers.
 [Kali Tools](https://tools.kali.org/tools-listing) | List of all the tools that are pre-installed on Kali linux and an explanation to what they do.
+[Hack Tricks](https://book.hacktricks.xyz/welcome/readme) | Welcome to the page where you will find each hacking trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 [Payload All the Things](https://github.com/swisskyrepo/PayloadsAllTheThings) | A list of useful payloads and bypass for Web Application Security and Pentest/CTF.
+[Pentest Book](https://pentestbook.six2dez.com) | This book contains a bunch of info, scripts and knowledge used during my pentests.
 [Pentest Checklist](https://github.com/netbiosX/Checklists) | Different Checklists to run through durring a pentest engagement.
 [PWNTools](https://github.com/Gallopsled/pwntools) | CTF framework and exploit development library.
 [Red Team Toolkit](https://github.com/Johnson90512/Red-Teaming-Toolkit) | A collection of open source and commercial tools that aid in red team operations.
 [Various Pentest Tools](https://github.com/trickster0?tab=repositories) | Pentesting tools from a pentester.
-[Hack Tricks](https://book.hacktricks.xyz/welcome/readme) | Welcome to the page where you will find each hacking trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
+
 
 ### DFIR
 
