@@ -136,6 +136,7 @@ Name | Description
 [HaveIBeenPwned](https://haveibeenpwned.com/) | Check to see if an account has been involved in a databreach.
 [Scylla.sh](https://scylla.sh/api) | Database dumps search site.
 [Sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username acrross social networks.
+[Threat Jammer](https://threatjammer.com) | REST API for developers, security engineers, and other IT professionals to access curated threat intelligence data from a variety of sources.
 [TinEye](https://tineye.com/) | Reverse image search.
 [Online Traceroute](https://hackertarget.com/online-traceroute/) | Online Traceroute using MTR.
 [WhatsMyName](https://whatsmyname.app/) | Tool that allows you to enumerate usernames across many websites.
