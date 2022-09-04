@@ -75,6 +75,7 @@ Name | Description
 [PWNTools](https://github.com/Gallopsled/pwntools) | CTF framework and exploit development library.
 [Red Team Toolkit](https://github.com/Johnson90512/Red-Teaming-Toolkit) | A collection of open source and commercial tools that aid in red team operations.
 [Various Pentest Tools](https://github.com/trickster0?tab=repositories) | Pentesting tools from a pentester.
+[Hack Tricks](https://book.hacktricks.xyz/welcome/readme) | Welcome to the page where you will find each hacking trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 
 ### DFIR
 
