@@ -1,3 +1,9 @@
+---
+title: Awesome Security Resources
+description: A collection of tools, cheatsheets, operating systems, learning materials, and more all related to security. There will also be a section for other Awesome lists that relate to cybersecurity.
+tags: [penetration-testing, tools, cheatsheet, awesome, security]
+---
+
 ![Awesome Glasses](https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg)
 
 # Awesome Security Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
