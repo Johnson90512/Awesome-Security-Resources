@@ -81,6 +81,7 @@ Name | Description
 [Pentest Book](https://pentestbook.six2dez.com) | This book contains a bunch of info, scripts and knowledge used during my pentests.
 [Pentest Checklist](https://github.com/netbiosX/Checklists) | Different Checklists to run through durring a pentest engagement.
 [PWNTools](https://github.com/Gallopsled/pwntools) | CTF framework and exploit development library.
+[Darkmoon](https://github.com/ASCIT31/Dark-Moon) | Open-source autonomous AI pentest platform and MCP host; per-tech offensive sub-agents, Active Directory and Kubernetes coverage, orchestrates 80+ offensive tools with an evidence trail per finding.
 [Red Team Toolkit](https://github.com/Johnson90512/Red-Teaming-Toolkit) | A collection of open source and commercial tools that aid in red team operations.
 [Various Pentest Tools](https://github.com/trickster0?tab=repositories) | Pentesting tools from a pentester.
 
