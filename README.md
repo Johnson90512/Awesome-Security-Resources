@@ -186,6 +186,7 @@ Name | Description
 [VulnHub](https://www.vulnhub.com) | Downloadable virtual machines to practice hacking.
 [WeChall](https://www.wechall.net) | Security challenge site.
 [WeChalls](https://w3challs.com) | Wargames to practice hacking.
+[Courseiva Phishing Simulator](https://courseiva.com/labs/phishing-simulator) | Free browser-based inbox of realistic emails to practice spotting phishing, with an explanation of each red flag.
 **Practice Labs** |
 [Metasploitable](https://information.rapid7.com/download-metasploitable-2017.html?LS=1631875&CS=web) | Intentionally vulnerable target machine for evaluating Metasploit
 [Pentest Lab](https://github.com/Sliim/pentest-lab) | contains examples to deploy a penetration testing lab on OpenStack provisioned with Heat, Chef and Docker.
