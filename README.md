@@ -83,6 +83,7 @@ Name | Description
 [PWNTools](https://github.com/Gallopsled/pwntools) | CTF framework and exploit development library.
 [Red Team Toolkit](https://github.com/Johnson90512/Red-Teaming-Toolkit) | A collection of open source and commercial tools that aid in red team operations.
 [Various Pentest Tools](https://github.com/trickster0?tab=repositories) | Pentesting tools from a pentester.
+[Pentest Swarm AI](https://github.com/Armur-Ai/Pentest-Swarm-AI) | Open-source autonomous penetration testing framework where a swarm of AI agents performs recon, chains vulnerabilities, and proves exploitation with a working proof-of-concept, behind fail-closed scope, egress and authorization guardrails.
 
 
 ### DFIR
